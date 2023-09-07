@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "37H1MiRyIuOwF6bKzLdiZtArrnP5tJ9GLgnhsIJ1X7L2+k0ksxOg5yRvG+Gue8NlXlF7YnxoazU3wh2pd/T9Eg==",
+  "success": true,
+  "projectFilePath": "E:\\Proyectos\\Fibonacci\\FibonacciAPI\\FibonacciAPI\\FibonacciAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oscar Jimenez\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "C:\\Users\\Oscar Jimenez\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Oscar Jimenez\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Oscar Jimenez\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Oscar Jimenez\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Oscar Jimenez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Oscar Jimenez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
